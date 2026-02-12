@@ -9,44 +9,126 @@ st.set_page_config(page_title="Projet 1 - Streamlit App", layout="wide")
 st.title("Projet 1 : Web Scraping & Dashboard")
 
 # FONCTION SCRAPER SUR PLUSIEURS PAGES
-def scrape_voitures(pages=3):
-    data = []
 
-    for page in range(1, pages + 1):
-        url = f"https://dakar-auto.com/senegal/voitures-4?page={page}"
+def scrape_data(categorie, pages):
+
+    df = pd.DataFrame()
+
+    if categorie == "Voitures":
+        base_url = "https://dakar-auto.com/senegal/voitures-4"
+
+    elif categorie == "Motos":
+        base_url = "https://dakar-auto.com/senegal/motos-and-scooters-3"
+
+    else:
+        base_url = "https://dakar-auto.com/senegal/location-de-voitures-19"
+
+    for index in range(1, pages + 1):
+
+        url = f"{base_url}?&page={index}"
+
         res = requests.get(url)
-        soup = BeautifulSoup(res.content, "html.parser")
+        soup = BeautifulSoup(res.content, 'html.parser')
 
         containers = soup.find_all(
-            "div",
-            class_="listings-cards__list-item mb-md-3 mb-3"
+            'div',
+            class_='listings-cards__list-item mb-md-3 mb-3'
         )
+
+        data = []
 
         for container in containers:
             try:
-                title = container.find(
-                    "h2",
-                    class_="listing-card__header__title mb-md-2 mb-0"
+                gen_inf = container.find(
+                    'h2',
+                    class_='listing-card__header__title mb-md-2 mb-0'
                 ).a.text.strip().split()
 
-                marque = title[0]
-                annee = title[-1]
+                marque = gen_inf[0]
+                annee = gen_inf[-1]
 
                 prix = container.find(
-                    "h3",
-                    class_="listing-card__header__price font-weight-bold text-uppercase mb-0"
-                ).text.strip().replace("\u202f", "").replace(" F CFA", "")
+                    'h3',
+                    'listing-card__header__price font-weight-bold text-uppercase mb-0'
+                ).text.strip().replace('\u202f', '').replace(' F CFA', '')
 
-                data.append({
-                    "marque": marque,
-                    "annee": annee,
-                    "prix": prix
-                })
+                quartier = container.find(
+                    'span',
+                    'town-suburb d-inline-block'
+                ).text.strip()
+
+                region = container.find(
+                    'span',
+                    'province font-weight-bold d-inline-block'
+                ).text.strip()
+
+                adresse = f"{quartier}, {region}"
+
+                inf = container.find_all(
+                    'li',
+                    'listing-card__attribute list-inline-item'
+                )
+
+                vendeur_tag = container.find(
+                    'div',
+                    class_='listing-card__contact__title'
+                )
+
+                proprietaire = vendeur_tag.text.strip() if vendeur_tag else "N/A"
+
+                # ================= VOITURES =================
+                if categorie == "Voitures":
+
+                    kilometrage = inf[1].text.strip().replace(' km', '').replace(' ', '') if len(inf) > 1 else ""
+                    boite_de_vit = inf[2].text.strip() if len(inf) > 2 else ""
+                    carburant = inf[3].text.strip() if len(inf) > 3 else ""
+
+                    dic = {
+                        'marque': marque,
+                        'annee': annee,
+                        'prix': prix,
+                        'adresse': adresse,
+                        'kilometrage': kilometrage,
+                        'boite_de_vit': boite_de_vit,
+                        'carburant': carburant,
+                        'proprietaire': proprietaire
+                    }
+
+                # ================= MOTOS =================
+                elif categorie == "Motos":
+
+                    kilometrage = inf[1].text.strip().replace(' km', '').replace(' ', '') if len(inf) > 1 else ""
+
+                    dic = {
+                        'marque': marque,
+                        'annee': annee,
+                        'prix': prix,
+                        'adresse': adresse,
+                        'kilometrage': kilometrage,
+                        'proprietaire': proprietaire
+                    }
+
+                # ================= LOCATIONS =================
+                else:
+
+                    dic = {
+                        'marque': marque,
+                        'annee': annee,
+                        'prix': prix,
+                        'adresse': adresse,
+                        'proprietaire': proprietaire
+                    }
+
+                data.append(dic)
 
             except:
-                continue
+                pass
 
-    return pd.DataFrame(data)
+        DF = pd.DataFrame(data)
+        df = pd.concat([df, DF], axis=0).reset_index(drop=True)
+
+    return df
+
 
 
 # MENU
@@ -138,4 +220,5 @@ elif menu == "Évaluation":
     st.markdown(
         "### 👉 [Accéder au formulaire d’évaluation](https://docs.google.com/forms/d/e/1FAIpQLScE__vXc-YrV6Y1xb1kk0uFhMRC2NKdRLz6gdgr_0O5MxNqaA/viewform?usp=publish-editor)"
     )
+
 
