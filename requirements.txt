@@ -1,9 +1,8 @@
-numpy
-bs4
-requests
-scipy
-matplotlib
+streamlit==1.32.2
+altair==5.2.0
 pandas
-streamlit
+numpy
+matplotlib
 seaborn
-pybase64
+requests
+beautifulsoup4
