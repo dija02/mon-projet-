@@ -1,0 +1,162 @@
+marque,annee,prix,adresse,proprietaire
+Hyundai,2017,35000.0,"Thiès,, Thiès",N/A
+Mitsubishi,2018,50000.0,"Thiès,, Thiès",N/A
+Ford,2013,30000.0,"Guédiawaye,, Dakar",N/A
+Ford,2013,4500000.0,"Guédiawaye,, Dakar",N/A
+Ford,2017,45000.0,"Guédiawaye,, Dakar",N/A
+Jeep,2016,60000.0,"Cambérène,, Dakar",N/A
+Ford,2014,30000.0,"Médina,, Dakar",N/A
+Hyundai,2015,30000.0,"Parcelles Assainies,, Dakar",N/A
+Ford,2016,30000.0,"Parcelles Assainies,, Dakar",N/A
+Mazda,2016,50000.0,"Ouest Foire,, Dakar",N/A
+Citroen,2014,20000.0,"Médina,, Dakar",N/A
+Peugeot,2013,30000.0,"Grand-Yoff,, Dakar",N/A
+Ford,2014,30000.0,"Sangalkam,, Dakar",N/A
+Ford,2015,35000.0,"Cité Keur gorgui,, Dakar",N/A
+Toyota,2020,35000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Hyundai,2015,20000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Hyundai,2015,20000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Toyota,2014,25000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Ford,2014,30000.0,"Médina,, Dakar",N/A
+Kia,2015,25000.0,"Almadies,, Dakar",N/A
+Hyundai,2014,35000.0,"Parcelles Assainies,, Dakar",N/A
+Hyundai,2014,37000.0,"Parcelles Assainies,, Dakar",N/A
+Hyundai,2020,50000.0,"Pikine Ouest,, Dakar",N/A
+Hyundai,2013,19500.0,"Nord Foire,, Dakar",N/A
+Nissan,2015,35000.0,"Thiès,, Thiès",N/A
+Kia,2012,35000.0,"Almadies,, Dakar",N/A
+Mitsubishi,2014,40000.0,"Ouest Foire,, Dakar",N/A
+Ford,2015,75000.0,"Médina,, Dakar",N/A
+Citroen,2014,30000.0,"Guédiawaye,, Dakar",N/A
+Ford,2013,30000.0,"Point-E,, Dakar",N/A
+Kia,2014,25000.0,"Ouakam,, Dakar",N/A
+Bmw,2014,70000.0,"Virage,, Dakar",N/A
+Ford,2020,35000.0,"Biscuiterie,, Dakar",N/A
+Ford,2020,40000.0,"Médina,, Dakar",N/A
+Ford,2015,30000.0,"Médina,, Dakar",N/A
+Hyundai,2014,30000.0,"Médina,, Dakar",N/A
+Ford,2019,60000.0,"Yoff,, Dakar",N/A
+Kia,2020,40000.0,"Yoff,, Dakar",N/A
+Ford,2019,35000.0,"Cité Keur gorgui,, Dakar",N/A
+Hyundai,2019,30000.0,"Liberté 6,, Dakar",N/A
+Renault,2019,10000.0,"Ouakam,, Dakar",N/A
+Ford,2015,45000.0,"Point-E,, Dakar",N/A
+Hyundai,2020,50000.0,"Mbour,, Thiès",N/A
+Hyundai,2015,30000.0,"Médina,, Dakar",N/A
+Chevrolet,2013,25000.0,"Sicap Sacré Coeur,, Dakar",N/A
+Renault,2010,70000.0,"Parcelles Assainies,, Dakar",N/A
+Isuzu,2010,35000.0,"Parcelles Assainies,, Dakar",N/A
+Renault,2010,50000.0,"Parcelles Assainies,, Dakar",N/A
+Ford,2018,60000.0,"Grand-Yoff,, Dakar",N/A
+Hyundai,2014,30000.0,"Hann Maristes,, Dakar",N/A
+Ford,2014,45000.0,"Ouest Foire,, Dakar",N/A
+Ford,2013,45000.0,"Ouest Foire,, Dakar",N/A
+Ford,2016,60000.0,"Médina,, Dakar",N/A
+Hyundai,2016,35000.0,"Liberté 2,, Dakar",N/A
+Ford,2016,40000.0,"Yoff,, Dakar",N/A
+Mitsubishi,2016,35000.0,"Parcelles Assainies,, Dakar",N/A
+Toyota,2017,40000.0,"Hlm,, Dakar",N/A
+Ford,2016,40000.0,"Ouakam,, Dakar",N/A
+Toyota,2014,50000.0,"Bel Air,, Dakar",N/A
+Kia,2016,1.0,"Yoff,, Dakar",N/A
+Jeep,2020,50000.0,"Yoff,, Dakar",N/A
+Hyundai,2017,35000.0,"VDN,, Dakar",N/A
+Ford,2017,35000.0,"VDN,, Dakar",N/A
+Ford,2014,25000.0,"Patte d'oie,, Dakar",N/A
+Chrysler,2015,30000.0,"Fann,, Dakar",N/A
+Nissan,2014,40000.0,"Ouakam,, Dakar",N/A
+Toyota,2016,40000.0,"Diamaguene Sicap Mbao,, Dakar",N/A
+Hyundai,2016,25000.0,"VDN,, Dakar",N/A
+Skoda,2016,25000.0,"Hlm,, Dakar",N/A
+Hyundai,2013,60000.0,"Ouakam,, Dakar",N/A
+Kia,2016,40000.0,"Yoff,, Dakar",N/A
+Kia,2016,30000.0,"Yoff,, Dakar",N/A
+Volkswagen,2014,20000.0,"Yoff,, Dakar",N/A
+Kia,2016,30000.0,"Dalifort,, Dakar",N/A
+Chrysler,2017,35000.0,"VDN,, Dakar",N/A
+Ford,2014,25000.0,"Grand-Dakar,, Dakar",N/A
+Ford,2014,40000.0,"Ouakam,, Dakar",N/A
+Mercedes,2014,40000.0,"Ouakam,, Dakar",N/A
+Fiat,2015,50000.0,"Guédiawaye,, Dakar",N/A
+Hyundai,2014,30000.0,"Fann,, Dakar",N/A
+Toyota,2010,3000000.0,"Fann,, Dakar",N/A
+Hyundai,2015,35000.0,"Liberté 2,, Dakar",N/A
+Chevrolet,2016,25000.0,"Almadies,, Dakar",N/A
+Ford,2019,55000.0,"Hann Maristes,, Dakar",N/A
+Hyundai,2014,25000.0,"Amitié,, Dakar",N/A
+Ford,2016,35000.0,"Dieuppeul Derklé,, Dakar",N/A
+Ford,2014,30000.0,"Médina,, Dakar",N/A
+Toyota,2018,30000.0,"Hann Bel-Air,, Dakar",N/A
+Peugeot,2012,25000.0,"Mamelles,, Dakar",N/A
+Ford,2016,40000.0,"Yoff,, Dakar",N/A
+Hyundai,2016,30000.0,"Liberté 4,, Dakar",N/A
+Hyundai,2013,30000.0,"Nord Foire,, Dakar",N/A
+Toyota,2021,70000.0,"Ouakam,, Dakar",N/A
+Toyota,2016,50000.0,"Grand-Dakar,, Dakar",N/A
+Ford,2016,60000.0,"Yoff,, Dakar",N/A
+Mercedes,2016,60000.0,"Yoff,, Dakar",N/A
+Ford,2014,35000.0,"Ouakam,, Dakar",N/A
+Hyundai,2013,60000.0,"Ouakam,, Dakar",N/A
+Ford,2013,35000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Hyundai,2013,25000.0,"VDN,, Dakar",N/A
+Ford,2014,30000.0,"Plateau,, Dakar",N/A
+Ford,2016,35000.0,"VDN,, Dakar",N/A
+Ford,2016,25000.0,"Médina,, Dakar",N/A
+Ford,2013,30000.0,"Fass,, Kaolack",N/A
+Toyota,2014,20000.0,"Fass,, Kaolack",N/A
+Ford,2016,20000.0,"Yoff,, Dakar",N/A
+Citroen,2019,25000.0,"Yoff,, Dakar",N/A
+Peugeot,2012,20000.0,"Keur Massar,, Dakar",N/A
+Ford,2016,35000.0,"Almadies,, Dakar",N/A
+Ford,2012,35000.0,"Parcelles Assainies,, Dakar",N/A
+Nissan,2016,35000.0,"Parcelles Assainies,, Dakar",N/A
+Hyundai,2015,30000.0,"Yoff,, Dakar",N/A
+Kia,2016,25000.0,"Ngor,, Dakar",N/A
+Hyundai,2018,50000.0,"Sicap Liberté,, Dakar",N/A
+Jeep,2020,100000.0,"Sicap Liberté,, Dakar",N/A
+Kia,2016,30000.0,"Yoff,, Dakar",N/A
+Kia,2016,40000.0,"Yoff,, Dakar",N/A
+Hyundai,2016,40000.0,"Liberté 2,, Dakar",N/A
+Peugeot,2016,25000.0,"Ngor,, Dakar",N/A
+Toyota,2016,30000.0,"Yoff,, Dakar",N/A
+Hyundai,2016,25000.0,"Sicap Foire,, Dakar",N/A
+Chevrolet,2016,30000.0,"Cité Keur gorgui,, Dakar",N/A
+Peugeot,2017,3.0,"Parcelles Assainies,, Dakar",N/A
+Mitsubishi,2016,20000.0,"Ouakam,, Dakar",N/A
+Toyota,2012,40000.0,"Hann Maristes,, Dakar",N/A
+Ford,2014,35000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Mercedes,2016,100000.0,"Mamelles,, Dakar",N/A
+Hyundai,2016,25000.0,"Yoff,, Dakar",N/A
+Nissan,2016,40000.0,"Ouakam,, Dakar",N/A
+Ford,2016,35000.0,"Grand-Yoff,, Dakar",N/A
+Mitsubishi,2015,35000.0,"Yoff,, Dakar",N/A
+Hyundai,2015,40000.0,"Yoff,, Dakar",N/A
+Volkswagen,2018,20000.0,"Grand-Dakar,, Dakar",N/A
+Ford,2013,35000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Ford,2017,35000.0,"Grand-Yoff,, Dakar",N/A
+Ford,2014,40000.0,"Ouest Foire,, Dakar",N/A
+Ford,2019,60000.0,"Hann Bel-Air,, Dakar",N/A
+Nissan,2016,40000.0,"Hann Bel-Air,, Dakar",N/A
+Mercedes,2018,170000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Land,2020,150000.0,"Mermoz Sacré-Coeur,, Dakar",N/A
+Volkswagen,2016,20000.0,"Plateau,, Dakar",N/A
+Nissan,2012,25000.0,"Yoff,, Dakar",N/A
+Peugeot,2012,25000.0,"Sicap Liberté,, Dakar",N/A
+Ford,2013,40000.0,"Sicap Liberté,, Dakar",N/A
+Ford,2013,40000.0,"Sicap Liberté,, Dakar",N/A
+Ford,2016,60000.0,"Médina,, Dakar",N/A
+Mercedes,2016,15000.0,"Hann Bel-Air,, Dakar",N/A
+Hyundai,2014,25000.0,"Médina,, Dakar",N/A
+Ford,2017,30000.0,"Point-E,, Dakar",N/A
+Ford,2017,25000.0,"Ouest Foire,, Dakar",N/A
+Nissan,2012,25000.0,"Yoff,, Dakar",N/A
+Mazda,2013,30000.0,"Yoff,, Dakar",N/A
+Citroen,2019,25000.0,"Yoff,, Dakar",N/A
+Dodge,2013,20000.0,"Yoff,, Dakar",N/A
+Chevrolet,2012,30000.0,"Yoff,, Dakar",N/A
+Mazda,2013,30000.0,"Yoff,, Dakar",N/A
+Hyundai,2016,20000.0,"Yoff,, Dakar",N/A
+Dodge,2012,30000.0,"Yoff,, Dakar",N/A
+Hyundai,2017,35000.0,"Yoff,, Dakar",N/A
+Ford,2012,40000.0,"Sicap Liberté,, Dakar",N/A
+Ford,2013,30000.0,"Sicap Liberté,, Dakar",N/A

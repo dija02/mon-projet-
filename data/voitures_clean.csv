@@ -1,0 +1,200 @@
+marque,annee,prix,adresse,kilometrage,boite_de_vit,carburant,proprietaire
+Citroen,2020,12500000,"Point-E,, Dakar",19700,Automatique,Essence,N/A
+Ssangyong,2017,6500000,"Mbour,, Thiès",94000,Automatique,Diesel,N/A
+Mercedes,2016,4800000,"Thiès,, Thiès",150000,Automatique,Diesel,N/A
+Mazda,2018,7900000,"Hann Maristes,, Dakar",75000,Automatique,Essence,N/A
+Hyundai,2014,6200000,"Hann Maristes,, Dakar",199000,Automatique,Essence,N/A
+Jeep,2019,8500000,"Hann Maristes,, Dakar",95000,Automatique,Essence,N/A
+Bmw,2021,30500000,"Nord Foire,, Dakar",65000,Automatique,Essence,N/A
+Bmw,2015,6600000,"Mermoz Sacré-Coeur,, Dakar",150,Automatique,Diesel,N/A
+Nissan,2014,2500000,"Hann Maristes,, Dakar",100000,Automatique,Essence,N/A
+Range,2019,23000000,"Nord Foire,, Dakar",60000,Automatique,Essence,N/A
+Mitsubishi,2020,11500000,"Nord Foire,, Dakar",53000,Automatique,Essence,N/A
+Land,2019,27500000,"Nord Foire,, Dakar",87000,Automatique,Essence,N/A
+Toyota,2014,5000000,"Sicap Foire,, Dakar",99000,Automatique,Essence,N/A
+Peugeot,2018,6000000,"Gueoul,, Louga",88000,Manuelle,Diesel,N/A
+Hyundai,2016,4000000,"Tomboronkoto,, Kedougou",177000,Manuelle,Essence,N/A
+Kia,2015,4000000,"Dembancane,, Matam",231000,Manuelle,Diesel,N/A
+Kia,2011,3000000,"Ronkh,, Saint-Louis",121000,Automatique,Essence,N/A
+Hyundai,2018,13500000,"VDN,, Dakar",1,Automatique,Diesel,N/A
+Toyota,2015,10000000,"Ngogom,, Diourbel",82000,Automatique,Essence,N/A
+Peugeot,2017,6000000,"Sindian,, Ziguinchor",185000,Automatique,Diesel,N/A
+Ford,2018,6000000,"Tankanto Escale,, Kolda",99000,Automatique,Essence,N/A
+Peugeot,2018,6000000,"Toumboura,, Tambacounda",184000,Manuelle,Diesel,N/A
+Bmw,2014,3000000,"Gueoul,, Louga",74000,Automatique,Essence,N/A
+Peugeot,2015,6800000,"Cambérène,, Dakar",171900,Automatique,Diesel,N/A
+Peugeot,2019,4000000,"Dembancane,, Matam",80000,Automatique,Diesel,N/A
+Ford,2016,3000000,"Gueoul,, Louga",76000,Automatique,Essence,N/A
+Ford,2013,1900000,"Amitié,, Dakar",200000,Automatique,Essence,N/A
+Renault,2017,8500000,"Fann,, Dakar",87000,Automatique,Diesel,N/A
+Kia,2019,6000000,"Ndiognick,, Kaffrine",20000,Automatique,Essence,N/A
+Peugeot,2015,3000000,"Dahra,, Louga",221000,Manuelle,Diesel,N/A
+Hyundai,2015,3000000,"Tankon,, Sédhiou",105000,Automatique,Essence,N/A
+Peugeot,2015,3000000,"Khombole,, Thiès",180000,Manuelle,Diesel,N/A
+Ford,2013,3000000,"Segre Gatta,, Kaffrine",120000,Automatique,Essence,N/A
+Hyundai,2010,3000000,"Dembancane,, Matam",111000,Automatique,Essence,N/A
+Ford,2016,3000000,"Tenghori,, Ziguinchor",76000,Automatique,Essence,N/A
+Hyundai,2016,5000000,"Tomboronkoto,, Kedougou",87000,Automatique,Essence,N/A
+Toyota,2009,3000000,"Thietty,, Kolda",58000,Automatique,Essence,N/A
+Peugeot,2015,3000000,"Sare Bidji,, Kolda",78000,Manuelle,Diesel,N/A
+Hyundai,2018,10500000,"Nord Foire,, Dakar",57000,Automatique,Essence,N/A
+Bmw,2018,15500000,"Almadies,, Dakar",127000,Automatique,Essence,N/A
+Peugeot,2017,7000000,"Médina Gounass,, Dakar",1,Manuelle,Diesel,N/A
+Kia,2014,4750000,"Sud Foire,, Dakar",1,Automatique,Essence,N/A
+Chevrolet,2014,3700000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Mazda,2016,6400000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Peugeot,2023,5000000,"Fass,, Kaolack",20000,Automatique,Essence,N/A
+Honda,2012,4950000,"Fann,, Dakar",221094,Automatique,Essence,N/A
+Ford,2014,3800000,"Yeumbeul Nord,, Dakar",155000,Automatique,Essence,N/A
+Opel,2007,2100000,"Nord Foire,, Dakar",171107,Automatique,Essence,N/A
+Lexus,2020,38000000,"Ouest Foire,, Dakar",55493,Automatique,Essence,N/A
+Mercedes,2018,15000000,"Ouest Foire,, Dakar",66485,Automatique,Essence,N/A
+Kia,2018,5500000,"Mbao,, Dakar",89220,Automatique,Essence,N/A
+Maserati,2019,21000000,"Sicap Sacré Coeur,, Dakar",11000,Automatique,Diesel,N/A
+Hyundai,2017,9000000,"Mermoz Sacré-Coeur,, Dakar",92000,Automatique,Essence,N/A
+Hyundai,2014,3850000,"Médina,, Dakar",121745,Automatique,Essence,N/A
+Kia,2016,3950000,"Médina,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2012,3200000,"Sicap Foire,, Dakar",1,Automatique,Essence,N/A
+Bmw,2017,11500000,"Sicap Dieuppeul,, Dakar",117394,Automatique,Essence,N/A
+Kia,2011,3200000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2015,6300000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Renault,2017,3500000,"Parcelles Assainies,, Dakar",120,Manuelle,Essence,N/A
+Toyota,2017,300000,"Golf,, Dakar",1,Manuelle,Diesel,N/A
+Mitsubishi,2017,8000000,"Gueule-Tapée, Fass, Colobane,, Dakar",1,Automatique,Essence,N/A
+Renault,2017,7200000,"Sicap Dieuppeul,, Dakar",1,Automatique,Diesel,N/A
+Peugeot,2018,14500000,"Sud Foire,, Dakar",1,Automatique,Diesel,N/A
+Renault,2021,6,"Nord Foire,, Dakar",50,Manuelle,Essence,N/A
+Bentley,2020,18500000,"Dieuppeul Derklé,, Dakar",34000,Automatique,Essence,N/A
+Hyundai,2016,5450000,"Ouest Foire,, Dakar",112333,Automatique,Essence,N/A
+Citroen,2017,5700000,"Sicap Dieuppeul,, Dakar",120000,Automatique,Diesel,N/A
+Hyundai,2018,8500,"Mbour,, Thiès",165000,Automatique,Essence,N/A
+Ford,2018,18500000,"Keur Massar,, Dakar",200000,Manuelle,Diesel,N/A
+Toyota,2023,17500000,"Keur Massar,, Dakar",105000,Automatique,Essence,N/A
+Mitsubishi,2017,16000000,"Keur Massar,, Dakar",200000,Automatique,Diesel,N/A
+Hyundai,2018,12200000,"Keur Massar,, Dakar",114000,Automatique,Diesel,N/A
+Citroen,2017,6200000,"Keur Massar,, Dakar",200000,Manuelle,Diesel,N/A
+Volkswagen,2018,19000000,"Point-E,, Dakar",107000,Automatique,Essence,N/A
+Hyundai,2015,5000000,"Point-E,, Dakar",25000,Automatique,Essence,N/A
+Mitsubishi,2016,6300000,"Grand-Yoff,, Dakar",1,Manuelle,Diesel,N/A
+Mitsubishi,2020,9950000,"Sud Foire,, Dakar",1,Manuelle,Diesel,N/A
+Bmw,2017,10500000,"Guédiawaye,, Dakar",100000,Automatique,Essence,N/A
+Hyundai,2017,6500000,"Patte d'oie,, Dakar",65000,Automatique,Essence,N/A
+Hyundai,2015,3500000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Range,2017,18000000,"Liberté 6 extension,, Dakar",83000,Automatique,Diesel,N/A
+Toyota,2010,8000000,"Ouest Foire,, Dakar",150000,Manuelle,Diesel,N/A
+Ford,2012,1800000,"Kaolack,, Kaolack",1,Automatique,Essence,N/A
+Mazda,2018,6600000,"Fann,, Dakar",63000,Automatique,Essence,N/A
+Kia,2016,5200000,"Ouest Foire,, Dakar",120000,Automatique,Essence,N/A
+Nissan,2012,3500000,"Dieuppeul Derklé,, Dakar",126100,Automatique,Essence,N/A
+Chevrolet,2014,2500000,"Sicap Dieuppeul,, Dakar",1,Automatique,Essence,N/A
+Dacia,2017,4800000,"Biscuiterie,, Dakar",1,Manuelle,Diesel,N/A
+Dacia,2019,8750000,"Dieuppeul Derklé,, Dakar",1,Manuelle,Diesel,N/A
+Bmw,2018,13850000,"Point-E,, Dakar",1,Automatique,Essence,N/A
+Bmw,2018,22000000,"Sicap Sacré Coeur,, Dakar",116400,Automatique,Essence,N/A
+Peugeot,2004,1000000,"Nguekhokh,, Thiès",200000,Manuelle,Diesel,N/A
+Renault,2011,6000000,"Malicounda,, Thiès",85000,Manuelle,Essence,N/A
+Peugeot,2017,8500000,"Grand-Yoff,, Dakar",1,Automatique,Diesel,N/A
+Kia,2018,10750000,"Liberté 6 extension,, Dakar",98000,Automatique,Diesel,N/A
+Hyundai,2012,4900000,"Virage,, Dakar",1,Automatique,Essence,N/A
+Ford,2014,2700000,"Rufisque,, Dakar",280000,Manuelle,Essence,N/A
+Ford,2014,2700000,"Rufisque,, Dakar",280000,Manuelle,Essence,N/A
+Range,2019,19000000,"Sicap Foire,, Dakar",54000,Automatique,Essence,N/A
+Hyundai,2019,9300000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Ford,2018,5200000,"Grand-Yoff,, Dakar",101000,Automatique,Essence,N/A
+Hyundai,2018,8900000,"Ngueniene,, Thiès",153000,Automatique,Essence,N/A
+Hyundai,2020,7800000,"Sicap Dieuppeul,, Dakar",45000,Automatique,Essence,N/A
+Kia,2023,23290000,"Point-E,, Dakar",18000,Automatique,Essence,N/A
+Citroen,2020,9700000,"Fann,, Dakar",64000,Automatique,Essence,N/A
+Nissan,2010,3000000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Renault,2014,3800000,"Sud Foire,, Dakar",1,Manuelle,Diesel,N/A
+Ford,2017,4900000,"Sicap Foire,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2016,6290000,"Grand-Dakar,, Dakar",110000,Automatique,Essence,N/A
+Citroen,2017,5600000,"Thiès,, Thiès",111000,Automatique,Diesel,N/A
+Nissan,2017,6700000,"Ngor,, Dakar",1,Automatique,Diesel,N/A
+Chevrolet,2011,2500000,"Biscuiterie,, Dakar",1,Automatique,Essence,N/A
+Kia,2014,3500000,"Grand-Yoff,, Dakar",129000,Automatique,Essence,N/A
+Hyundai,2014,4950000,"Sud Foire,, Dakar",1,Automatique,Essence,N/A
+Kia,2017,9500000,"Grand-Dakar,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2016,4100000,"Sicap Liberté,, Dakar",1,Automatique,Essence,N/A
+Renault,2017,8000000,"Hlm,, Dakar",101000,Automatique,Diesel,N/A
+Peugeot,2017,5000000,"Cambérène,, Dakar",120000,Automatique,Diesel,N/A
+Mitsubishi,2018,8700000,"Médina,, Dakar",102723,Automatique,Essence,N/A
+Hyundai,2017,7500000,"Amitié,, Dakar",1,Automatique,Diesel,N/A
+Peugeot,2012,3700000,"Cambérène,, Dakar",1,Manuelle,Diesel,N/A
+Renault,2017,6800000,"VDN,, Dakar",1,Automatique,Essence,N/A
+Ssangyong,2016,5500000,"Parcelles Assainies,, Dakar",150000,Automatique,Diesel,N/A
+Toyota,2016,15900000,"Point-E,, Dakar",1,Automatique,Diesel,N/A
+Ford,2016,5800000,"Dieuppeul Derklé,, Dakar",1,Automatique,Essence,N/A
+Kia,2016,4700000,"Liberté 6,, Dakar",1,Automatique,Essence,N/A
+Ford,2014,2800000,"Liberté 4,, Dakar",1,Automatique,Essence,N/A
+Jeep,2014,7,"Guédiawaye,, Dakar",117000,Automatique,Essence,N/A
+Toyota,2017,13500000,"Liberté 6 extension,, Dakar",1,Automatique,Essence,N/A
+Renault,2017,7000000,"Scat Urbam,, Dakar",1,Automatique,Diesel,N/A
+Chevrolet,2012,2800000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Citroen,2013,4350000,"Parcelles Assainies,, Dakar",100000,Automatique,Diesel,N/A
+Peugeot,2016,4500000,"Sud Foire,, Dakar",1,Automatique,Diesel,N/A
+Bmw,2015,15000000,"Gueule-Tapée, Fass, Colobane,, Dakar",117000,Automatique,Essence,N/A
+Citroen,2018,8200000,"Keur Massar,, Dakar",100000,Automatique,Diesel,N/A
+Ford,2017,6600000,"Keur Massar,, Dakar",100000,Automatique,Essence,N/A
+Peugeot,2017,5700000,"Keur Massar,, Dakar",100000,Manuelle,Diesel,N/A
+Peugeot,2020,9500000,"Keur Massar,, Dakar",100000,Automatique,Diesel,N/A
+Bmw,2014,9500000,"Grand-Dakar,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2017,6800000,"Mbao,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2015,5000000,"Sud Foire,, Dakar",93698,Automatique,Essence,N/A
+Ford,2013,3500000,"Scat Urbam,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2017,5850000,"Thiaroye,, Dakar",120000,Automatique,Essence,N/A
+Renault,2012,3000000,"Sicap Foire,, Dakar",1,Manuelle,Diesel,N/A
+Suzuki,2022,8700000,"Sicap Dieuppeul,, Dakar",49000,Automatique,Essence,N/A
+Citroen,1998,8500000,"Bokidiawé,, Matam",300000,Manuelle,Diesel,N/A
+Peugeot,2017,5000000,"Hlm,, Dakar",110000,Manuelle,Diesel,N/A
+Peugeot,2019,12500000,"Sicap Baobab,, Dakar",111000,Automatique,Essence,N/A
+Hyundai,2017,8900000,"Fann,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2021,28000000,"VDN,, Dakar",1,Automatique,Diesel,N/A
+Hyundai,2018,8500000,"Nord Foire,, Dakar",120000,Automatique,Essence,N/A
+Jeep,2019,10800000,"Nord Foire,, Dakar",85000,Automatique,Essence,N/A
+Hyundai,2023,26000000,"Mermoz Sacré-Coeur,, Dakar",38200,Automatique,Essence,N/A
+Toyota,2023,25000000,"Point-E,, Dakar",70000,Automatique,Essence,N/A
+Hyundai,2018,4200000,"Cambérène,, Dakar",87000,Automatique,Essence,N/A
+Toyota,2007,4200000,"Cambérène,, Dakar",1,Manuelle,Diesel,N/A
+Peugeot,2016,5700000,"Gibraltar,, Dakar",1,Automatique,Diesel,N/A
+Bmw,2015,7800000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2013,3700000,"Médina,, Dakar",1,Automatique,Essence,N/A
+Peugeot,2021,11000000,"Thiaroye,, Dakar",1,Manuelle,Essence,N/A
+Jeep,2020,14900000,"Sicap Dieuppeul,, Dakar",1,Automatique,Essence,N/A
+Citroen,2017,7300000,"Keur Massar,, Dakar",100000,Manuelle,Diesel,N/A
+Ford,2016,6300000,"Grand-Dakar,, Dakar",1,Automatique,Essence,N/A
+Hyundai,2018,8800000,"Thiès,, Thiès",153000,Automatique,Essence,N/A
+Nissan,2016,4500000,"Golf,, Dakar",1,Automatique,Essence,N/A
+Kia,2016,6300000,"Grand-Yoff,, Dakar",1,Automatique,Essence,N/A
+Infiniti,2017,13000000,"Hlm,, Dakar",118000,Automatique,Essence,N/A
+Jeep,2020,14900000,"Grand-Dakar,, Dakar",1,Automatique,Essence,N/A
+Citroen,2017,7000000,"Thiès,, Thiès",1,Manuelle,Diesel,N/A
+Hyundai,2018,8900000,"Scat Urbam,, Dakar",153000,Automatique,Essence,N/A
+Mercedes,2023,43000000,"Point-E,, Dakar",75300,Automatique,Essence,N/A
+Mitsubishi,2011,5300000,"Cambérène,, Dakar",1,Manuelle,Diesel,N/A
+Peugeot,2011,3100000,"Amitié,, Dakar",1,Manuelle,Diesel,N/A
+Mazda,2016,4300000,"Sicap Dieuppeul,, Dakar",1,Automatique,Essence,N/A
+Mitsubishi,2017,7800000,"Scat Urbam,, Dakar",93000,Manuelle,Diesel,N/A
+Mazda,2016,9900000,"VDN,, Dakar",1,Automatique,Essence,N/A
+Kia,2014,3500000,"Keur Massar,, Dakar",195400,Automatique,Essence,N/A
+Peugeot,2016,3950000,"Grand-Yoff,, Dakar",1,Manuelle,Diesel,N/A
+Renault,2017,47000000,"Point-E,, Dakar",78223,Automatique,Essence,N/A
+Mitsubishi,2016,9000000,"Sicap Dieuppeul,, Dakar",1,Automatique,Diesel,N/A
+Peugeot,2012,781847549,"Grand-Yoff,, Dakar",1,Manuelle,Diesel,N/A
+Hyundai,2016,4400000,"VDN,, Dakar",1,Automatique,Essence,N/A
+Kia,2017,8700000,"Médina,, Dakar",1,Automatique,Diesel,N/A
+Renault,2018,10500000,"Point-E,, Dakar",1,Automatique,Essence,N/A
+Peugeot,2017,5800000,"Biscuiterie,, Dakar",1,Automatique,Diesel,N/A
+Toyota,2011,2950000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Nissan,2015,20000000,"Fann,, Dakar",35000,Automatique,Essence,N/A
+Ford,2015,4800000,"Sicap Foire,, Dakar",1,Automatique,Essence,N/A
+Peugeot,2015,3500000,"Malika,, Dakar",1,Manuelle,Diesel,N/A
+Hyundai,2017,7600000,"Sicap Liberté,, Dakar",1,Automatique,Essence,N/A
+Kia,2012,3600000,"Sicap Dieuppeul,, Dakar",120000,Automatique,Essence,N/A
+Jeep,2015,6750000,"Point-E,, Dakar",99000,Automatique,Essence,N/A
+Jeep,2015,5600000,"Cambérène,, Dakar",1,Automatique,Essence,N/A
+Kia,2015,5500000,"Sicap Dieuppeul,, Dakar",94000,Automatique,Diesel,N/A
+Mitsubishi,2018,8700000,"Parcelles Assainies,, Dakar",1,Automatique,Essence,N/A
+Chevrolet,2013,2600000,"Liberté 6,, Dakar",1,Automatique,Essence,N/A
+Chevrolet,2015,9500000,"Sicap Sacré Coeur,, Dakar",1,Automatique,Essence,N/A
+Ford,2016,3800000,"Golf,, Dakar",1,Automatique,Essence,N/A

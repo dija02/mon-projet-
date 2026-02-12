@@ -1,0 +1,665 @@
+﻿web_scraper_order,web_scraper_start_url,containers,marque,annee,prix,adresse,proprietaire
+"1770739056-1","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-134587","Ford Fusion 2013 Dakar","Année: 2013","30 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","KINGCARS  Service"
+"1770739059-2","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/explorer/annonce-134586","Ford Explorer 2012 Dakar","Année: 2012","40 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","KINGCARS  Service"
+"1770739062-3","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-134581","Hyundai Elantra 2017 Dakar","Année: 2017","35 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Abdia Sn"
+"1770739065-4","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/dodge/journey/annonce-134585","Dodge Journey 2012 Dakar","Année: 2012","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739068-5","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-134584","Hyundai Elantra 2016 Dakar","Année: 2016","20 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739072-6","https://dakar-auto.com/senegal/location-de-voitures-19?&page=9","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mazda/cx5/annonce-134579","Mazda cx5 2013 Dakar","Année: 2013","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739101-7","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chevrolet/equinox/annonce-134578","Chevrolet Equinox 2012 Dakar","Année: 2012","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739104-8","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/dodge/dart/annonce-134577","Dodge Dart 2013 Dakar","Année: 2013","20 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739107-9","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/citroen/c3/annonce-134576","Citroen C3 2019 Dakar","Année: 2019","25 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739110-10","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mazda/cx-5/annonce-134575","Mazda Cx-5 2013 Dakar","Année: 2013","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739113-11","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/juke/annonce-134574","Nissan Juke 2012 Dakar","Année: 2012","25 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739115-12","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-134580","Ford Fusion 2017 Dakar","Année: 2017","25 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Logivit  Express"
+"1770739118-13","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-134582","Ford Fusion 2017 Dakar","Année: 2017","30 000 F CFA","Point-E                    
+                
+                                    
+                        Dakar","Ousmane diagne"
+"1770739121-14","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-134593","Hyundai Sonata 2014 Dakar","Année: 2014","25 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Kena Impact  Groupes"
+"1770739124-15","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/sprinter/annonce-134592","Mercedes Sprinter 2016 Dakar","Année: 2016","15 000 F CFA","Hann Bel-Air                    
+                
+                                    
+                        Dakar","Kena Impact  Groupes"
+"1770739127-16","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/transit/annonce-134591","Ford Transit 2016 Dakar","Année: 2016","60 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Kena Impact  Groupes"
+"1770739129-17","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-134590","Ford Edge 2013 Dakar","Année: 2013","40 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","KINGCARS  Service"
+"1770739132-18","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-134589","Ford ESCAPE-SE 2013 Dakar","Année: 2013","40 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","KINGCARS  Service"
+"1770739135-19","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/308/annonce-134588","Peugeot 308 2012 Dakar","Année: 2012","25 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","KINGCARS  Service"
+"1770739138-20","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hiace/annonce-134599","Toyota Hiace 2020 Dakar","Année: 2020","NC","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739141-21","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/viano/annonce-134598","Mercedes Viano 2010 Dakar","Année: 2010","NC","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739143-22","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/508/annonce-134597","Peugeot 508 2016 Dakar","Année: 2016","NC","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739146-23","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/renault/master/annonce-134618","Renault Master 2017 Dakar","Année: 2017","NC","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739149-24","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/juke/annonce-134619","Nissan Juke 2012 Dakar","Année: 2012","25 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739152-25","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/volkswagen/jetta/annonce-134682","Volkswagen Jetta 2016 Dakar","Année: 2016","20 000 F CFA","Plateau                    
+                
+                                    
+                        Dakar","Senegal TCS  ventes et locations"
+"1770739155-26","https://dakar-auto.com/senegal/location-de-voitures-19?&page=8","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/land-rover/range-rover-sport/annonce-134738","Land Rover range-rover-sport 2020 Dakar","Année: 2020","150 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739160-27","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/classe-s-500/annonce-134739","Mercedes Classe S 500 2018 Dakar","Année: 2018","170 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739164-28","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/viano/annonce-134740","Mercedes Viano 2010 Dakar","Année: 2010","NC","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Mapauto sn"
+"1770739166-29","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/rogue/annonce-134801","Nissan ROGUE 2016 Dakar","Année: 2016","40 000 F CFA","Hann Bel-Air                    
+                
+                                    
+                        Dakar","PAPA ."
+"1770739169-30","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/flex-limited/annonce-134803","Ford Flex-limited 2019 Dakar","Année: 2019","60 000 F CFA","Hann Bel-Air                    
+                
+                                    
+                        Dakar","PAPA ."
+"1770739172-31","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-134671","Ford ESCAPE-SE 2014 Dakar","Année: 2014","40 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Optimus Debugger"
+"1770739175-32","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-134842","Ford ESCAPE-SE 2017 Dakar","Année: 2017","35 000 F CFA","Grand-Yoff                    
+                
+                                    
+                        Dakar","Transcar via  Sénégal"
+"1770739178-33","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-134856","Ford Edge 2013 Dakar","Année: 2013","35 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","A-T Auto"
+"1770739180-34","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/volkswagen/jetta/annonce-134894","Volkswagen Jetta 2018 Dakar","Année: 2018","20 000 F CFA","Grand-Dakar                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739183-35","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-134908","Hyundai Sonata 2015 Dakar","Année: 2015","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Abdia ..."
+"1770739186-36","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mitsubishi/outlander/annonce-134914","Mitsubishi Outlander 2015 Dakar","Année: 2015","35 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739189-37","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-134918","Ford ESCAPE-SE 2016 Dakar","Année: 2016","35 000 F CFA","Grand-Yoff                    
+                
+                                    
+                        Dakar","Transcar via  Sénégal"
+"1770739192-38","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/pathfinder/annonce-134922","Nissan Pathfinder 2016 Dakar","Année: 2016","40 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","LOCA VOITURE  DAKAR"
+"1770739195-39","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-134934","Hyundai Elantra 2016 Dakar","Année: 2016","25 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","MBD  VOITURE"
+"1770739197-40","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/classe-c/annonce-134935","Mercedes Classe C 2016 Dakar","Année: 2016","100 000 F CFA","Mamelles                    
+                
+                                    
+                        Dakar","Start& Drive"
+"1770739200-41","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-134945","Ford Fusion 2014 Dakar","Année: 2014","35 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Originodesign  Market"
+"1770739203-42","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hilux/annonce-134963","Toyota Hilux 2012 Dakar","Année: 2012","40 000 F CFA","Hann Maristes                    
+                
+                                    
+                        Dakar","travelsencar .."
+"1770739206-43","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mitsubishi/rvr/annonce-134991","Mitsubishi RVR 2016 Dakar","Année: 2016","20 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","LOCA VOITURE  DAKAR"
+"1770739212-44","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/5008/annonce-135035","Peugeot 5008 2017 Dakar","Année: 2017","3 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","Rasta Gadio"
+"1770739215-45","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chevrolet/equinox/annonce-135047","Chevrolet Equinox 2016 Dakar","Année: 2016","30 000 F CFA","Cité Keur gorgui                    
+                
+                                    
+                        Dakar","Augustin  Ndiaye"
+"1770739218-46","https://dakar-auto.com/senegal/location-de-voitures-19?&page=7","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/santa-fe/annonce-135109","Hyundai Santa Fe 2016 Dakar","Année: 2016","25 000 F CFA","Sicap Foire                    
+                
+                                    
+                        Dakar","AMautomobile ."
+"1770739227-47","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/rav-4/annonce-135113","Toyota Rav 4 2016 Dakar","Année: 2016","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739230-48","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/partner/annonce-135122","Peugeot Partner 2016 Dakar","Année: 2016","25 000 F CFA","Ngor                    
+                
+                                    
+                        Dakar","J. M"
+"1770739233-49","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/tucson/annonce-135128","Hyundai Tucson 2016 Dakar","Année: 2016","40 000 F CFA","Liberté 2                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739236-50","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sorento/annonce-135145","Kia Sorento 2016 Dakar","Année: 2016","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Abdia ..."
+"1770739238-51","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-135158","Kia Sportage 2016 Dakar","Année: 2016","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739242-52","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/jeep/grand-cherokee-limited/annonce-135180","Jeep GRAND-CHEROKEE-LIMITED 2020 Dakar","Année: 2020","100 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","Khardiata  LY"
+"1770739245-53","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/santa-fe/annonce-135181","Hyundai Santa Fe 2018 Dakar","Année: 2018","50 000 F CFA","Sicap Liberté                    
+                
+                                    
+                        Dakar","Khardiata  LY"
+"1770739248-54","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-134685","Kia Sportage 2016 Dakar","Année: 2016","25 000 F CFA","Ngor                    
+                
+                                    
+                        Dakar","Alcine ."
+"1770739250-55","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/accent/annonce-135202","Hyundai Accent 2015 Dakar","125000 km","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Penda NDIAYE"
+"1770739253-56","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/rogue/annonce-135204","Nissan ROGUE 2016 Dakar","Année: 2016","35 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","XLOC ."
+"1770739256-57","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135206","Ford ESCAPE-SE 2012 Dakar","Année: 2012","35 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","XLOC ."
+"1770739259-58","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135213","Ford ESCAPE-SE 2016 Dakar","Année: 2016","35 000 F CFA","Almadies                    
+                
+                                    
+                        Dakar","ahmad ."
+"1770739264-59","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/308/annonce-135228","Peugeot 308 2012 Dakar","Année: 2012","20 000 F CFA","Keur Massar                    
+                
+                                    
+                        Dakar","Lamine  Djitte"
+"1770739268-60","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/citroen/c3/annonce-135232","Citroen C3 2019 Dakar","Année: 2019","25 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739271-61","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/focus/annonce-135233","Ford Focus 2016 Dakar","Année: 2016","20 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739274-62","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/avensis/annonce-135299","Toyota Avensis 2014 Dakar","Année: 2014","20 000 F CFA","Fass                    
+                
+                                    
+                        Kaolack","Easy_Trip_ Sen"
+"1770739276-63","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135300","Ford ESCAPE-SE 2013 Dakar","Année: 2013","30 000 F CFA","Fass                    
+                
+                                    
+                        Kaolack","Easy_Trip_ Sen"
+"1770739279-64","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/focus/annonce-135129","Ford Focus 2016 Dakar","Année: 2016","25 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739282-65","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-titanium/annonce-135383","Ford Escape-Titanium 2016 Dakar","Année: 2016","35 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","MODOU  LO"
+"1770739285-66","https://dakar-auto.com/senegal/location-de-voitures-19?&page=6","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135386","Ford ESCAPE-SE 2014 Dakar","Année: 2014","30 000 F CFA","Plateau                    
+                
+                                    
+                        Dakar","Abibatou  Diop"
+"1770739291-67","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-135392","Hyundai Sonata 2013 Dakar","Année: 2013","25 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","MODOU  LO"
+"1770739293-68","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-135441","Ford Fusion 2013 Dakar","Année: 2013","35 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","Originodesign  Market"
+"1770739303-69","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/mini-bus-hyundai/annonce-135452","Hyundai mini-bus-hyundai 2013 Dakar","Année: 2013","60 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","SYLLA BUSINESS  GROUP"
+"1770739314-70","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135454","Ford ESCAPE-SE 2014 Dakar","Année: 2014","35 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","SYLLA BUSINESS  GROUP"
+"1770739318-71","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/ml-350/annonce-135459","Mercedes ML 350 2016 Dakar","Année: 2016","60 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739321-72","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/explorer/annonce-135461","Ford Explorer 2016 Dakar","Année: 2016","60 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739324-73","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hilux/annonce-135490","Toyota Hilux 2016 Dakar","Année: 2016","50 000 F CFA","Grand-Dakar                    
+                
+                                    
+                        Dakar","Bouly  DIEDHIOU"
+"1770739328-74","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hiace/annonce-135505","Toyota Hiace 2021 Dakar","Année: 2021","70 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","SYLLA BUSINESS  GROUP"
+"1770739331-75","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-135566","Hyundai Elantra 2013 Dakar","Année: 2013","30 000 F CFA","Nord Foire                    
+                
+                                    
+                        Dakar","Julie  Campara"
+"1770739334-76","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/tucson/annonce-135702","Hyundai Tucson 2016 Dakar","Année: 2016","30 000 F CFA","Liberté 4                    
+                
+                                    
+                        Dakar","Caroline ,"
+"1770739338-77","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-135753","Ford ESCAPE-SE 2016 Dakar","Année: 2016","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Babacar ba  résidence"
+"1770739341-78","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/308/annonce-135756","Peugeot 308 2012 Dakar","Année: 2012","25 000 F CFA","Mamelles                    
+                
+                                    
+                        Dakar","Auto business  Dakar"
+"1770739344-79","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hilux/annonce-135761","Toyota Hilux 2018 Dakar","Année: 2018","30 000 F CFA","Hann Bel-Air                    
+                
+                                    
+                        Dakar","PAPIEX ."
+"1770739348-80","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-135787","Ford Edge 2014 Dakar","Année: 2014","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Cheikh ."
+"1770739362-81","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-135835","Ford Fusion 2016 Dakar","Année: 2016","35 000 F CFA","Dieuppeul Derklé                    
+                
+                                    
+                        Dakar","Lendom  Zefff"
+"1770739365-82","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-135862","Hyundai Elantra 2014 Dakar","Année: 2014","25 000 F CFA","Amitié                    
+                
+                                    
+                        Dakar","peezy ."
+"1770739367-83","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/flex-limited/annonce-135869","Ford Flex-limited 2019 Dakar","Année: 2019","55 000 F CFA","Hann Maristes                    
+                
+                                    
+                        Dakar","DIOP ."
+"1770739370-84","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chevrolet/cruze/annonce-135926","Chevrolet Cruze 2016 Dakar","Année: 2016","25 000 F CFA","Almadies                    
+                
+                                    
+                        Dakar","Moustapha SAMBA"
+"1770739373-85","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/tucson/annonce-135942","Hyundai Tucson 2015 Dakar","Année: 2015","35 000 F CFA","Liberté 2                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739377-86","https://dakar-auto.com/senegal/location-de-voitures-19?&page=5","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/corolla/annonce-136001","Toyota Corolla 2010 Dakar","1 km","3 000 000 F CFA","Fann                    
+                
+                                    
+                        Dakar","KONTE  SERVICES"
+"1770739384-87","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-135357","Hyundai Elantra 2014 Dakar","Année: 2014","30 000 F CFA","Fann                    
+                
+                                    
+                        Dakar","KONTE  SERVICES"
+"1770739386-88","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/fiat/freemont/annonce-136060","Fiat Freemont 2015 Dakar","Année: 2015","50 000 F CFA","Guédiawaye                    
+                
+                                    
+                        Dakar","Fall ."
+"1770739389-89","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mercedes/ml-350/annonce-134992","Mercedes ML 350 2014 Dakar","Année: 2014","40 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","LOCA VOITURE  DAKAR"
+"1770739392-90","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-136108","Ford Edge 2014 Dakar","Année: 2014","40 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","VPS  SERVICES"
+"1770739395-91","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fiesta/annonce-136149","Ford Fiesta 2014 Dakar","Année: 2014","25 000 F CFA","Grand-Dakar                    
+                
+                                    
+                        Dakar","Feudze  Immo & services"
+"1770739398-92","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chrysler/200s/annonce-136153","Chrysler 200s 2017 Dakar","Année: 2017","35 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","ahmed  cheikhouna"
+"1770739401-93","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-136151","Kia Sportage 2016 Dakar","Année: 2016","30 000 F CFA","Dalifort                    
+                
+                                    
+                        Dakar","Caroline ,"
+"1770739404-94","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/volkswagen/jetta/annonce-136169","Volkswagen Jetta 2014 Dakar","Année: 2014","20 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739407-95","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-136057","Kia Sportage 2016 Dakar","Année: 2016","30 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739410-96","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/optima/annonce-135146","Kia Optima 2016 Dakar","Année: 2016","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Abdia ..."
+"1770739413-97","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/starex-12-places/annonce-136301","Hyundai Starex-12-places 2013 Dakar","Année: 2013","60 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","SYLLA BUSINESS  GROUP"
+"1770739416-98","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/skoda/fabia/annonce-136377","Skoda fabia 2016 Dakar","Année: 2016","25 000 F CFA","Hlm                    
+                
+                                    
+                        Dakar","DAKAR MOTORS  PRO-SUARL"
+"1770739419-99","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-136397","Hyundai Sonata 2016 Dakar","Année: 2016","25 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","MODOU  LO"
+"1770739422-100","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hilux/annonce-136406","Toyota Hilux 2016 Dakar","Année: 2016","40 000 F CFA","Diamaguene Sicap Mbao                    
+                
+                                    
+                        Dakar","Cartel ."
+"1770739425-101","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/pathfinder/annonce-136457","Nissan Pathfinder 2014 Dakar","Année: 2014","40 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","LOCA VOITURE  DAKAR"
+"1770739428-102","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chrysler/200s/annonce-136462","Chrysler 200s 2015 Dakar","Année: 2015","30 000 F CFA","Fann                    
+                
+                                    
+                        Dakar","Jules  BADJI"
+"1770739431-103","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-136473","Ford Fusion 2014 Dakar","Année: 2014","25 000 F CFA","Patte d'oie                    
+                
+                                    
+                        Dakar","Trade Company"
+"1770739434-104","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/scape/annonce-136495","Ford scape 2017 Dakar","Année: 2017","35 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","Valer NDOUBA"
+"1770739438-105","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/tucson/annonce-136496","Hyundai Tucson 2017 Dakar","Année: 2017","35 000 F CFA","VDN                    
+                
+                                    
+                        Dakar","Valer NDOUBA"
+"1770739444-106","https://dakar-auto.com/senegal/location-de-voitures-19?&page=4","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/jeep/cherokee/annonce-136534","Jeep Cherokee 2020 Dakar","Année: 2020","50 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739458-107","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/k5/annonce-136533","Kia K5 2016 Dakar","Année: 2016","1 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739462-108","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/hilux/annonce-136543","Toyota Hilux 2014 Dakar","Année: 2014","50 000 F CFA","Bel Air                    
+                
+                                    
+                        Dakar","travelsencar .."
+"1770739465-109","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-136109","Ford Edge 2016 Dakar","Année: 2016","40 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","VPS  SERVICES"
+"1770739468-110","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/rav-4/annonce-136576","Toyota Rav 4 2017 Dakar","Année: 2017","40 000 F CFA","Hlm                    
+                
+                                    
+                        Dakar","Taiba Immo  Services"
+"1770739471-111","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mitsubishi/l200/annonce-136602","Mitsubishi L200 2016 Dakar","Année: 2016","35 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","Lamine  Fall"
+"1770739473-112","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-136639","Ford Fusion 2016 Dakar","Année: 2016","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Babacar ba  résidence"
+"1770739476-113","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/tucson/annonce-136650","Hyundai Tucson 2016 Dakar","Année: 2016","35 000 F CFA","Liberté 2                    
+                
+                                    
+                        Dakar","Elhadj ben  abdallah"
+"1770739479-114","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/transit/annonce-136680","Ford Transit 2016 Dakar","Année: 2016","60 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Kena Impact  Groupes"
+"1770739483-115","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-136723","Ford Fusion 2013 Dakar","Année: 2013","45 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Lamine Konare"
+"1770739486-116","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-136722","Ford Fusion 2014 Dakar","Année: 2014","45 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Lamine Konare"
+"1770739489-117","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-136720","Hyundai Sonata 2014 Dakar","Année: 2014","30 000 F CFA","Hann Maristes                    
+                
+                                    
+                        Dakar","Babs Motos,  Scooters"
+"1770739492-118","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-136739","Ford Edge 2018 Dakar","Année: 2018","60 000 F CFA","Grand-Yoff                    
+                
+                                    
+                        Dakar","Atlantic  auto"
+"1770739495-119","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/renault/camion-frigo-meldium-220cdi/annonce-136730","Renault Camion-Frigo-meldium-220CDI 2010 Dakar","Année: 2010","50 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","NAWANAM SUARL"
+"1770739498-120","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/isuzu/camionnette/annonce-136731","Isuzu CAMIONNETTE 2010 Dakar","Année: 2010","35 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","NAWANAM SUARL"
+"1770739501-121","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/renault/premium-270-dci-frigo/annonce-136729","Renault premium-270-dci-frigo 2010 Dakar","Année: 2010","70 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","NAWANAM SUARL"
+"1770739504-122","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/chevrolet/cruze/annonce-136931","Chevrolet Cruze 2013 Dakar","Année: 2013","25 000 F CFA","Sicap Sacré Coeur                    
+                
+                                    
+                        Dakar","Amadou  gaye"
+"1770739507-123","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-136615","Hyundai Elantra 2015 Dakar","Année: 2015","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739511-124","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/accent/annonce-137025","Hyundai Accent 2020 Dakar","Année: 2020","50 000 F CFA","Mbour                    
+                
+                                    
+                        Thiès","Yva Ndour"
+"1770739515-125","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-137027","Ford Edge 2015 Dakar","Année: 2015","45 000 F CFA","Point-E                    
+                
+                                    
+                        Dakar","TECHZONE ."
+"1770739518-126","https://dakar-auto.com/senegal/location-de-voitures-19?&page=3","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/renault/espace/annonce-137029","Renault Espace 2019 Dakar","Année: 2019","10 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","Boutik Promo"
+"1770739525-127","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/atos/annonce-137030","Hyundai Atos 2019 Dakar","Année: 2019","30 000 F CFA","Liberté 6                    
+                
+                                    
+                        Dakar","Car Service Dakar"
+"1770739528-128","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-137028","Ford ESCAPE-SE 2019 Dakar","Année: 2019","35 000 F CFA","Cité Keur gorgui                    
+                
+                                    
+                        Dakar","Madiba Auto rent"
+"1770739531-129","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sorento/annonce-137032","Kia Sorento 2020 Dakar","Année: 2020","40 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","Abdia ..."
+"1770739534-130","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/explorer/annonce-137037","Ford Explorer 2019 Dakar","Année: 2019","60 000 F CFA","Yoff                    
+                
+                                    
+                        Dakar","A vos  services"
+"1770739544-131","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-137036","Hyundai Elantra 2014 Dakar","Année: 2014","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739547-132","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-137035","Ford Fusion 2015 Dakar","Année: 2015","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","SEN  BAZAR"
+"1770739550-133","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/titanium/annonce-137034","Ford titanium 2020 Dakar","Année: 2020","40 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","BS Auto"
+"1770739553-134","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-137033","Ford Fusion 2020 Dakar","Année: 2020","35 000 F CFA","Biscuiterie                    
+                
+                                    
+                        Dakar","Evrad  Peter"
+"1770739579-135","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/bmw/serie-5/annonce-137054","Bmw Serie 5 2014 Dakar","Année: 2014","70 000 F CFA","Virage                    
+                
+                                    
+                        Dakar","Coulibaly  Mamadou"
+"1770739582-136","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/optima/annonce-137084","Kia Optima 2014 Dakar","Année: 2014","25 000 F CFA","Ouakam                    
+                
+                                    
+                        Dakar","Valer NDOUBA"
+"1770739585-137","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-137304","Ford Fusion 2013 Dakar","1 km","30 000 F CFA","Point-E                    
+                
+                                    
+                        Dakar","TECHZONE ."
+"1770739588-138","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/citroen/ds4/annonce-137347","Citroen Ds4 2014 Dakar","Année: 2014","30 000 F CFA","Guédiawaye                    
+                
+                                    
+                        Dakar","unicar UNICAR"
+"1770739591-139","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/minibus/annonce-137402","Ford Minibus 2015 Dakar","Année: 2015","75 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Kena Impact  Groupes"
+"1770739602-140","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mitsubishi/asx/annonce-137678","Mitsubishi Asx 2014 Dakar","Année: 2014","40 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Rent Auto"
+"1770739606-141","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-137868","Kia Sportage 2012 Dakar","Année: 2012","35 000 F CFA","Almadies                    
+                
+                                    
+                        Dakar","Moustapha SAMBA"
+"1770739613-142","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/nissan/rogue-sl-awd/annonce-137867","Nissan ROGUE-SL-AWD 2015 Dakar","Année: 2015","35 000 F CFA","Thiès                    
+                
+                                    
+                        Thiès","AlfaBusinessGroup BARRY"
+"1770739616-143","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-138103","Hyundai Elantra 2013 Dakar","Année: 2013","19 500 F CFA","Nord Foire                    
+                
+                                    
+                        Dakar","Mouhamed Diallo"
+"1770739619-144","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/starex-12-places/annonce-138259","Hyundai Starex-12-places 2020 Dakar","Année: 2020","50 000 F CFA","Pikine Ouest                    
+                
+                                    
+                        Dakar","David  Niang"
+"1770739628-145","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-138372","Hyundai Sonata 2014 Dakar","Année: 2014","37 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","DRT Automobile"
+"1770739631-146","https://dakar-auto.com/senegal/location-de-voitures-19?&page=2","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/sonata/annonce-138371","Hyundai Sonata 2014 Dakar","Année: 2014","35 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","DRT Automobile"
+"1770739636-147","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/kia/sportage/annonce-138395","Kia Sportage 2015 Dakar","Année: 2015","25 000 F CFA","Almadies                    
+                
+                                    
+                        Dakar","Moustapha SAMBA"
+"1770739662-148","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-138438","Ford Fusion 2014 Dakar","10000 km","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Bakay Samassa"
+"1770739684-149","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/verso/annonce-138493","Toyota Verso 2014 Dakar","Année: 2014","25 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","LocAuto Sénégal Location de voiture"
+"1770739687-150","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-138492","Hyundai Elantra 2015 Dakar","Année: 2015","20 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","LocAuto Sénégal Location de voiture"
+"1770739693-151","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/elantra/annonce-138491","Hyundai Elantra 2015 Dakar","Année: 2015","20 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","LocAuto Sénégal Location de voiture"
+"1770739697-152","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/toyota/rav-4/annonce-138490","Toyota Rav 4 2020 Dakar","Année: 2020","35 000 F CFA","Mermoz Sacré-Coeur                    
+                
+                                    
+                        Dakar","LocAuto Sénégal Location de voiture"
+"1770739702-153","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-138518","Ford Fusion 2015 Dakar","Année: 2015","35 000 F CFA","Cité Keur gorgui                    
+                
+                                    
+                        Dakar","Pape  Cheikh automobile"
+"1770739707-154","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fiesta/annonce-138548","Ford Fiesta 2014 Dakar","Année: 2014","30 000 F CFA","Sangalkam                    
+                
+                                    
+                        Dakar","Medoune Ndiaye"
+"1770739712-155","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/peugeot/308/annonce-138621","Peugeot 308 2013 Dakar","Année: 2013","30 000 F CFA","Grand-Yoff                    
+                
+                                    
+                        Dakar","Chic Drive"
+"1770739715-156","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/citroen/berlingo/annonce-138611","Citroen Berlingo 2014 Dakar","Année: 2014","20 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Chasseur  Automobile"
+"1770739718-157","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mazda/cx-5/annonce-139588","Mazda Cx-5 2016 Dakar","Année: 2016","50 000 F CFA","Ouest Foire                    
+                
+                                    
+                        Dakar","Mouhamed  Sene"
+"1770739723-158","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-139552","Ford Fusion 2016 Dakar","Année: 2016","30 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","Gallas  FAYE"
+"1770739726-159","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/avante/annonce-139587","Hyundai Avante 2015 Dakar","Année: 2015","30 000 F CFA","Parcelles Assainies                    
+                
+                                    
+                        Dakar","Mouhamed  Sene"
+"1770739729-160","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/fusion/annonce-139586","Ford Fusion 2014 Dakar","Année: 2014","30 000 F CFA","Médina                    
+                
+                                    
+                        Dakar","Mouhamed  Sene"
+"1770739732-161","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/jeep/grand-cherokee/annonce-139585","Jeep grand-cherokee 2016 Dakar","60000 km","60 000 F CFA","Cambérène                    
+                
+                                    
+                        Dakar","Mouhamed  Sene"
+"1770739735-162","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/edge/annonce-139584","Ford Edge 2017 Dakar","50000 km","45 000 F CFA","Guédiawaye                    
+                
+                                    
+                        Dakar","Mouhamed  Sene"
+"1770739738-163","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/scape/annonce-139745","Ford scape 2013 Dakar","Année: 2013","4 500 000 F CFA","Guédiawaye                    
+                
+                                    
+                        Dakar","TERANGUA  BII"
+"1770739741-164","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/ford/escape-se/annonce-139746","Ford ESCAPE-SE 2013 Dakar","Année: 2013","30 000 F CFA","Guédiawaye                    
+                
+                                    
+                        Dakar","TERANGUA  BII"
+"1770739744-165","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/mitsubishi/l200/annonce-139924","Mitsubishi L200 2018 Dakar","Année: 2018","50 000 F CFA","Thiès                    
+                
+                                    
+                        Thiès","AlfaBusinessGroup BARRY"
+"1770739747-166","https://dakar-auto.com/senegal/location-de-voitures-19?&page=1","https://dakar-auto.com/senegal/location-de-voitures/occasion/location-de-voitures-1/hyundai/santa-fe/annonce-139923","Hyundai Santa Fe 2017 Dakar","Année: 2017","35 000 F CFA","Thiès                    
+                
+                                    
+                        Thiès","AlfaBusinessGroup BARRY"
