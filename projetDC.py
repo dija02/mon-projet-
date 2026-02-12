@@ -150,20 +150,22 @@ if menu == "Accueil":
 # SCRAPER EN LIGNE
 elif menu == "Scraping en ligne":
 
-    pages = st.number_input("Nombre de pages à scraper", min_value=1, max_value=10, value=2)
+    categorie = st.selectbox(
+        "Choisir une catégorie",
+        ["Voitures", "Motos", "Locations"]
+    )
+
+    pages = st.number_input(
+        "Nombre de pages",
+        min_value=1,
+        max_value=50,
+        value=2
+    )
 
     if st.button("Lancer le scraping"):
         df_scraped = scrape_data(categorie, pages)
-        st.success("Scraping terminé")
         st.dataframe(df_scraped)
 
-        csv = df_scraped.to_csv(index=False).encode("utf-8")
-        st.download_button(
-            "Télécharger les données scrapées",
-            csv,
-            "scraping_result.csv",
-            "text/csv"
-        )
 
 # TELECHARGER LES DONNEES BRUTES
 elif menu == "Télécharger données brutes":
@@ -220,6 +222,7 @@ elif menu == "Évaluation":
     st.markdown(
         "### 👉 [Accéder au formulaire d’évaluation](https://docs.google.com/forms/d/e/1FAIpQLScE__vXc-YrV6Y1xb1kk0uFhMRC2NKdRLz6gdgr_0O5MxNqaA/viewform?usp=publish-editor)"
     )
+
 
 
 
