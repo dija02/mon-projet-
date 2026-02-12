@@ -153,7 +153,7 @@ elif menu == "Scraping en ligne":
     pages = st.number_input("Nombre de pages à scraper", min_value=1, max_value=10, value=2)
 
     if st.button("Lancer le scraping"):
-        df_scraped = scrape_voitures(pages)
+        df_scraped = scrape_data(categorie, pages)
         st.success("Scraping terminé")
         st.dataframe(df_scraped)
 
@@ -220,5 +220,6 @@ elif menu == "Évaluation":
     st.markdown(
         "### 👉 [Accéder au formulaire d’évaluation](https://docs.google.com/forms/d/e/1FAIpQLScE__vXc-YrV6Y1xb1kk0uFhMRC2NKdRLz6gdgr_0O5MxNqaA/viewform?usp=publish-editor)"
     )
+
 
 
