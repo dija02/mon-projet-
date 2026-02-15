@@ -27,7 +27,12 @@ def scrape_data(categorie, pages):
 
         url = f"{base_url}?&page={index}"
 
-        res = requests.get(url)
+        headers = {
+        "User-Agent": "Mozilla/5.0"
+        }
+
+        res = requests.get(url, headers=headers, timeout=10)
+
         soup = BeautifulSoup(res.content, 'html.parser')
 
         containers = soup.find_all(
@@ -222,6 +227,7 @@ elif menu == "Évaluation":
     st.markdown(
         "### 👉 [Accéder au formulaire d’évaluation](https://docs.google.com/forms/d/e/1FAIpQLScE__vXc-YrV6Y1xb1kk0uFhMRC2NKdRLz6gdgr_0O5MxNqaA/viewform?usp=publish-editor)"
     )
+
 
 
 
